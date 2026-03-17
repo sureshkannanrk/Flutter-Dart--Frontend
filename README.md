@@ -50,6 +50,7 @@ The current branch hosts the **Weather Engine**, a high-performance meteorologic
 
 ### Technical Architecture
 This application demonstrates my ability to connect mobile interfaces to external data sources using the **OpenWeatherMap API**. 
+<img width="1914" height="1008" alt="Screenshot 2026-03-17 230441" src="https://github.com/user-attachments/assets/0871b2bb-0c22-4518-82b9-201f9c526f85" />
 
 * **Networking Layer:** Utilized the `http` package to handle asynchronous GET requests.
 * **JSON Orchestration:** Developed custom models to parse complex JSON responses into usable Dart objects.
